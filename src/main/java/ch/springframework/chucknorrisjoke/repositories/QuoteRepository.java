@@ -1,5 +1,11 @@
 package ch.springframework.chucknorrisjoke.repositories;
 
+import org.springframework.stereotype.Repository;
+
+import java.util.HashSet;
+import java.util.Random;
+import java.util.Set;
+
 @Repository
 public class QuoteRepository {
 

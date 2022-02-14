@@ -1,6 +1,6 @@
 package ch.springframework.chucknorrisjoke.services;
 
-import ch.springframework.chucknorrisjoke.repository.QuoteRepository;
+import ch.springframework.chucknorrisjoke.repositories.QuoteRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.Set;
